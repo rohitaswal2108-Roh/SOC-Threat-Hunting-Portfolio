@@ -329,8 +329,6 @@ C2 channels for redundancy and stealth.
 |--------|-----------|----|----|
 | Command and Control | Encrypted Channel | [T1573](https://attack.mitre.org/techniques/T1573/) | TLS-encrypted C2 communication |
 | Command and Control | Application Layer Protocol: Web Protocols | [T1071.001](https://attack.mitre.org/techniques/T1071/001/) | HTTPS C2 channel |
-| Command and Control | Fallback Channels | [T1008](https://attack.mitre.org/techniques/T1008/) | Multiple C2 methods (HTTP + HTTPS) |
-| Defense Evasion | Encrypted/Encoded Files | [T1027.013](https://attack.mitre.org/techniques/T1027/013/) | Encrypted payload delivery |
 
 ---
 
