@@ -274,9 +274,8 @@ Network Segment: 10.1.30.0/24
 |--------|-----------|----|----|
 | Discovery | System Network Configuration Discovery | [T1016](https://attack.mitre.org/techniques/T1016/) | Public IP lookup via icanhazip.com |
 | Command and Control | Application Layer Protocol: DNS | [T1071.004](https://attack.mitre.org/techniques/T1071/004/) | Repeated DNS queries to C2 domain |
-| Command and Control | Non-Application Layer Protocol | [T1095](https://attack.mitre.org/techniques/T1095/) | Direct IP communication to 185.27.134.154 |
-| Exfiltration | Exfiltration Over C2 Channel | [T1041](https://attack.mitre.org/techniques/T1041/) | Data likely exfiltrated through DNS tunnel |
-
+| Discovery | System Network Configuration Discovery | T1016 | Public IP lookup via icanhazip.com |
+| Command and Control | Application Layer Protocol: DNS | T1071.004 | Repeated DNS queries to suspicious domain indicating beaconing |
 ---
 
 ## 🛡️ Recommendations
