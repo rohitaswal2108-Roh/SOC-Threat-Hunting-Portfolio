@@ -282,18 +282,6 @@ MITRE: T1573 (Encrypted Channel)
 
 ---
 
-## 🚀 Upcoming Projects
-
-| Project | Focus | Status |
-|---------|-------|--------|
-| Brute Force Detection | Splunk alert engineering | 🔜 Planned |
-| Windows Event Log Investigation | Host-based threat hunting | 🔜 Planned |
-| PowerShell Threat Detection | Script-based attack analysis | 🔜 Planned |
-| Lateral Movement Detection | East-west traffic analysis | 🔜 Planned |
-| Active Directory Attack Analysis | Identity-based attacks | 🔜 Planned |
-| SOC Alert Triage Simulations | End-to-end SOC workflow | 🔜 Planned |
-
----
 
 ## ⚠️ Disclaimer
 
